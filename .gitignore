@@ -1,0 +1,4 @@
+.env
+preuves_images/
+logs/
+__pycache__/
